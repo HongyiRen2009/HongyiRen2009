@@ -4,3 +4,4 @@ Hi, I'm Hongyi Ren. I'm currently a high schooler and I do a bunch of stuff rang
 <img width="1280" height="683" alt="Screenshot 2026-10-31 195615" src="https://github.com/user-attachments/assets/00c57119-e1d7-4582-be52-c5f0f0ebc8b4" />
 <img width="1173" height="659" alt="Screenshot 2026-07-26 105751" src="https://github.com/user-attachments/assets/60b5b190-0ade-4250-9838-0d2525368ce4" />
 <img width="3331" height="2159" alt="Screenshot 2026-01-17 152019" src="https://github.com/user-attachments/assets/18238ec3-8a39-476a-a780-6b13154df715" />
+<img width="338" height="62" alt="Screenshot 2026-09-12 113915" src="https://github.com/user-attachments/assets/a56430dd-6adf-4acf-a825-65766e1e0cd2" />
