@@ -1,4 +1,5 @@
 Hi, I'm Hongyi Ren. I'm currently a high schooler and I do a bunch of stuff ranging from 3D graphics to games to machine learning.
+
 Check out Solstice on Steam: https://store.steampowered.com/app/5223030/Solstice/
 
 <img width="2527" height="1042" alt="image" src="https://github.com/user-attachments/assets/b78f4cb3-b6d5-46c2-9d1f-b8ba12537e2f" />
